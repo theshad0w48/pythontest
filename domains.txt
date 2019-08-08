@@ -1,0 +1,6 @@
+google.com
+youtube.com
+nfl.com
+www.espn.com
+http://www.example.com
+ftp://test.com
