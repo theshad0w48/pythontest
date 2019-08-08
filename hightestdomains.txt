@@ -3,3 +3,4 @@ hightest.com
 www.highesttest.com
 blah.org
 blah.net
+yolo.net
